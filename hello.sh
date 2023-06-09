@@ -42,3 +42,4 @@ echo " This command switches user "
 echo
 echo $(sudo dnf install -y nginx)
 echo " This command shows to install package"
+echo "This is new line"
